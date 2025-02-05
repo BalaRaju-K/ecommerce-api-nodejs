@@ -55,6 +55,10 @@ GET	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 PUT	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/api/products/:id	    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Update a product<br>
 DELETE	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;/api/products/:id	   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Delete a product<br>
 
+## 📝 Postman Collection  
+You can test all APIs using **Postman**.  
+[🔗 Download Postman Collection](https://github.com/BalaRaju-K/ecommerce-api-nodejs/blob/main/E-commerce%20API.postman_collection.json)
+
 ## 👨‍💻 Author
 Developed by [Bala Raju]
 
